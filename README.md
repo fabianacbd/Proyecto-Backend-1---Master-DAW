@@ -208,5 +208,5 @@ npm run seed
 
 ## 📬 Entrega
 
-Proyecto entregado por: **[Tu Nombre]**  
-Repositorio: **[URL del repositorio GitHub]**
+Proyecto entregado por: **Fabiana Barbati**  
+Repositorio: **(https://github.com/fabianacbd/Proyecto-Backend-1---Master-DAW.git)**
